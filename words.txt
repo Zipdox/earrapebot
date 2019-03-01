@@ -1,0 +1,27 @@
+wordlist, exceptions =
+[
+[['earrape'], ' said earrape in', 'earrape.wav'],
+[['fuck', 'shit'], ' used foul language in ', 'profanity.wav'],
+[['normie'], ' acted like a elitist in ', 'normies.wav'],
+[['harry potter'], ' went to fucking hogwarts in ', 'harry.wav'],
+[['nigga'], ' used racial slur in ', 'black_people.wav'],
+[['nigger'], ' used racial slur in ', 'nigger.wav'],
+[['wtf'], ' excuse me wtf? ', 'wtf.wav'],
+[['stfu', 'shut the fuck up', 'shut up'], ' told someone to shut their pie hole in ', 'stfu.wav'],
+[['kys', 'kill  yourself', 'kill urself'], ' encouraged suicide in ', 'kys.wav'],
+[['xd'], ' LMAO ', 'risitas.wav'],
+[['hit or miss'], ' I guess she took the kids huh! ', 'hit_or_miss.wav'],
+[['alabama'], ' Sweet home Alabama! ', 'alabama.wav'],
+[['fortnite'], ' is a fucking default in ', 'default.wav'],
+[['fbi'], ' FBI OPEN UP!!! ', 'fbi.wav'],
+[['incest'], ' SWEET HOME ALABAMA!!!!! ', 'alabama_loud.wav'],
+[['careless whisper'], ' I\'m never gonna dance again... Guilty feet have got no rhythm. 🎶🎵 ', 'careless_whisper.wav'],
+[['piano man'], ' It\'s nine o\'clock on a saturday, the regular crowd shovels in... ', 'piano_man.wav'],
+[['ladies and gentlemen'], ' Ladies and gentlemen, we\'ve got him. ', 'ladies_and_gentlemen.wav'],
+[['tralala', 'ding ding dong'], ' Ooooh you touched my tralala, ooh my ding-ding dong. ', 'tralala.wav'],
+[['windows xp'], ' Starting Windows... ', 'winxp.wav'],
+[['user disconnected'], ' User disconnected from your channel. ', 'user_disconnected.wav'],
+[['vsauce'], ' Hey Vsauce, Michael here. Where are your fingers? ', 'vsauce.wav'],
+[['chris hansen'], ' Why don\'t you take a seat over there? ', 'chris_hansen.wav']
+],
+['YOUR_DISCORD_ID']
